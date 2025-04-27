@@ -4,6 +4,11 @@
 
 ![Ruby Logo](ror-logo-480.png)
 
+<p align="center">
+  <img src="ror-logo-480.png" alt="Ruby Logo" width="300"/>
+</p>
+
+
 # Ruby On Rails \- Quick Fire 🔥
 
 ## 1\. What is the difference between include and extend in Ruby?
