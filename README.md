@@ -2,7 +2,7 @@
 
 # **RUBY ON RAILS \- NOTES**
 
-![Ruby Logo](icons8-ruby-programming-language-480.png)
+![Ruby Logo](ror-logo-480.png)
 
 # Ruby On Rails \- Quick Fire 🔥
 
