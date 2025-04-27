@@ -2,10 +2,8 @@
 
 # **RUBY ON RAILS \- NOTES**
 
-![Ruby Logo](ror-logo-480.png)
-
 <p align="center">
-  <img src="ror-logo-480.png" alt="Ruby Logo" width="300"/>
+  <img src="ror-logo-480.png" alt="Ruby Logo" width="350"/>
 </p>
 
 
